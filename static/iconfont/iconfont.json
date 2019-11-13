@@ -1,0 +1,23 @@
+{
+  "id": "845222",
+  "name": "icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "140164",
+      "name": "公告小喇叭",
+      "font_class": "gonggaoxiaolaba",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "4233762",
+      "name": "红点_画板 1",
+      "font_class": "hongdian_huaban",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    }
+  ]
+}
